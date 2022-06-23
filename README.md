@@ -2,7 +2,7 @@ Cách Sử Dụng :
 <br>
 <b>Đối với Keyboard Mode</b>
 <br>
-Cũng Vào <b>config.json</b> rồi set key trên giả lập hoặc web rồi chiến thui ;-; ( chỉ phím số thôi nha )
+Cũng Vào <b>config.json</b> rồi set key trên giả lập hoặc web rồi chiến thui ;-; ( chỉ phím số thôi nha nma nhớ set pos giống mouse mode nha )
 <br>
 Hmmm Giống Cái Mouse Mode Nhưng Thay Vì X Y Thì sẽ dùng key để chơi
 <br>
