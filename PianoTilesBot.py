@@ -41,7 +41,7 @@ if selectmode == '1':
         if pyautogui.pixel(tiles4x, tiles4y)[0]==0:
             click(tiles4x, tiles4y)
 elif selectmode == '2':
-    while keyboard.is_pressed("q")==False:
+    while keyboard.is_pressed("=")==False:
         if pyautogui.pixel(tiles1x, tiles1y)[0]==0: 
             keyboard.send(key1)
         if pyautogui.pixel(tiles2x, tiles2y)[0]==0:
