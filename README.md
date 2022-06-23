@@ -15,3 +15,5 @@ kiểu như là locate x và y của cái tiles trên game đại loại là v�
 Tốc Độ Đạt Được Đối Với Mouse Mode : 9,545 tiles/s
 <br>
 Tốc Độ Đạt Được Đối Với Keyboard Mode : -
+<br>
+Shortcut : q ( Quit ( Mouse Mode ) ) | = ( Quit Nhưng Đối Với Keyboard Mode ) 
