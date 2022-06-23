@@ -17,3 +17,8 @@ Tốc Độ Đạt Được Đối Với Mouse Mode : 9,545 tiles/s
 Tốc Độ Đạt Được Đối Với Keyboard Mode : -
 <br>
 Shortcut : q ( Quit ( Mouse Mode ) ) | = ( Quit Nhưng Đối Với Keyboard Mode ) 
+<br>
+```
+Pip install -r requirements.txt
+python PianoTilesBot.py
+```
